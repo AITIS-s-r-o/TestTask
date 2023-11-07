@@ -39,8 +39,6 @@ On the left side of the the package-script group name there is a little triangle
 
 ![Running Tasks 4](./img/rs-4.png)
 
-On this picture, we can see a sample trading script which is called "TradingIndicators/Wait30Seconds" (more precisely "TradingIndicators" is the name of the package with multiple scripts and the actual script name is just "Wait30Seconds"). The name of the script instance is "431B-3ABD", which is a computer generated unique identifier of the instance.
-
 There is some information provided for each running script instance. The name of the instance is in the first column, then there are three columns informing the user about the number of different events that the script raised. The next column is called "Running Time" and it is simply a time that elapsed since the particular instance was started. Last column "Start Time" is the time when it was started.
 
 A script instance can raise events when something notable is happening (for example when an order is placed successfully, or when it is filled, or when an unexpected error occurred). There are 6 severity levels that the script events can be raised on: Trace, Debug, Info, Warn, Error and Fatal. In the Running Scripts tool pane, you can only see three icons, however. This is because we do not consider Trace and Debug events to be interesting enough to make it here. The user is able to see all script instance's events in a dedicated tool, but for this quick summary, we discard Trace and Debug events. The last of the three icon-marked columns thus displays the number of events raised by the script instance on the Info level, the second to last is dedicated for number of the Warn level events, and the first is dedicated to a sum of numbers of events of Error and Fatal events.
