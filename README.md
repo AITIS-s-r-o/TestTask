@@ -15,7 +15,7 @@ When the application is started, there are some initial screens that won't be di
 
 To give you a visual idea, here is an old screenshot of the dashboard, from when we did not have any tool panes implemented:
 
-![Dashboard with 3 workspace tabs](./img/dashboard-3-tabs.png)
+![Dashboard with 3 workspace tabs](./img/dashboard-3-tabs-list.png)
 
 You can see there are 3 workspaces and many tool panes without content. What we will ask you to do in this test task is related to a simple tool pane called "Running Scripts".
 
