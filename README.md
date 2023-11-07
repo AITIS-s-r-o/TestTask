@@ -67,7 +67,7 @@ Your task is to design the contents of the Running Scripts tool pane. Ignore the
 
 ## Appearance
 
-Please design the for the light mode. We also have the dark mode in our app, but for this task, to make it short, please only do light mode. 
+Please design for the light mode. We also have the dark mode in our app, but for this task, to make it short, please only do light mode. 
 
 We do not have any graphic design finished for any part of the software, except for these two images of the project logo and the application splash screen (the first screen showed to the user when the app is started while loading):
 
