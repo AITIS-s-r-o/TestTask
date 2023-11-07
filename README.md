@@ -43,7 +43,7 @@ There is some information provided for each running script instance. The name of
 
 A script instance can raise events when something notable is happening (for example when an order is placed successfully, or when it is filled, or when an unexpected error occurred). There are 6 severity levels that the script events can be raised on: Trace, Debug, Info, Warn, Error and Fatal. In the Running Scripts tool pane, you can only see three icons, however. This is because we do not consider Trace and Debug events to be interesting enough to make it here. The user is able to see all script instance's events in a dedicated tool, but for this quick summary, we discard Trace and Debug events. The last of the three icon-marked columns thus displays the number of events raised by the script instance on the Info level, the second to last is dedicated for number of the Warn level events, and the first is dedicated to a sum of numbers of events of Error and Fatal events.
 
-**Note that these screenshots are only provided to demonstrate the functionality, they are not to dictate any graphic design or color selection. You should decide on all colors and all visual effects yourself.**
+**Note that the screenshots above are only provided to demonstrate the functionality, they are not to dictate any graphic design or color selection. You should decide on all colors and all visual effects yourself.**
 
 
 ### What To Do
