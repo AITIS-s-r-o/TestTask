@@ -75,4 +75,15 @@ We do not have any graphic design finished for any part of the software, except 
 
 ![Splash](./img/splash.jpg)
 
-They are mentioned here just for an inspiration of a color scheme, but you are not required to use it in any way.
+You are not required to use these images in any way.
+
+### Business Look
+
+What we are looking for is a compact business look. That means, if one was to show a screenshot of the finished application to a C-class manager, it should make them feel this is a serious tool that can be trusted with their money. We are building software for trading, so money investment is involved. The design have to make people confident to use it with their money.
+
+A style that we like is for example the one used by Microsoft Visual Studio, which is a professional software development tool. Here is a screenshot:
+
+![MSVS](https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/2-1260.png)
+
+We are not looking to replicate its design, but rather the feeling of it. This kind of design is known for being very compact, which means that a lot of information and controls are being put in relatively small space.
+
